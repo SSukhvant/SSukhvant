@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @SSukhvant
-- 👀 I’m interested in Web Development.
+- 👋 Hi, I’m Sukhvant Singh.
+- 👀 I’m interested in Web Development, UI Design and Coding.
 - 🌱 I’m currently learning DSA using C++.
-- 📫 How to reach me 
 
 <!---
 SSukhvant/SSukhvant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
