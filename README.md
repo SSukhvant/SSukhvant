@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I’m Sukhvant Singh</h1>
-- 👀 I’m interested in Web Development, UI Design and Coding.
+- 👀 I’m interested in Web Development, UI Design and Coding.<br/>
 - 🌱 I’m currently learning DSA using C++.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
