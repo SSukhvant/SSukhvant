@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I’m Sukhvant Singh</h1>
 - 👀 I’m interested in Web Development, UI Design and Coding.<br/>
-- 🌱 I’m currently learning DSA using C++.
+- 🌱 I’m currently learning DSA using C++.<br/>
 - 👨‍💻 Portfolio [https://www.ssukhvant.com/](https://www.ssukhvant.com/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
