@@ -23,5 +23,5 @@ I've been learning to code for 5 years, after switching careers, I started with 
 <a href="http://www.github.com/SSukhvant"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SSukhvant&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="420"/></a>
 <a href="http://www.github.com/SSukhvant"><img src="https://activity-graph.herokuapp.com/graph?username=SSukhvant&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<!-- ### Support Me  -->
-<a href="https://www.buymeacoffee.com/webdevstudio"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<!-- ### Support Me  
+<a href="https://www.buymeacoffee.com/webdevstudio"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
