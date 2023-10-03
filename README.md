@@ -4,7 +4,7 @@ Hi 👋 My name is Sukhvant Singh
 Full Stack Developer | UI Designer
 ----------------------------------
 
-I've been learning to code for 5 years, after switching careers, I started with HTML, CSS and Java Script, but have really found of a passion for MERN Stack Development.
+I've been learning to code for 3 years, after switching careers, I started with HTML, CSS, and JavaScript, but I have really found a passion for MERN Stack Development.
 
 *   🌍  I'm based in Uttarakhand
 *   🖥️  See my portfolio at [ssukhvant](https://ssukhvant.netlify.app)
