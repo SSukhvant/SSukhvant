@@ -1,14 +1,25 @@
-Hi 👋 My name is Sukhvant Singh
-===============================
+# Hi there! 👋
 
-Full Stack Developer | UI Designer
-----------------------------------
+I'm Sukhvant Singh, a Full Stack Developer and UI Designer from Uttarakhand, India. 🌍
 
-I've been learning to code for 3 years, after switching careers, I started with HTML, CSS, and JavaScript, but I have really found a passion for MERN Stack Development.
+I'm passionate about web development and have been coding for three years. I started with HTML, CSS, and JavaScript and fell in love with MERN Stack Development. 🚀
 
-*   🌍  I'm based in Uttarakhand
-*   🖥️  See my portfolio at [ssukhvant](https://ssukhvant.netlify.app)
-*   📃  Read my blogs at [scholarzuniverse.com](https://scholarzuniverse.com)
-*   ✉️  You can contact me at [sukhvantsingh2@gmail.com](mailto:sukhvantsingh2@gmail.com)
-*   🧠  I'm learning MERN Stack Development
-*   🤝  I'm open to collaborating on Web Development Projects
+## What I Do
+
+- 💻 I create responsive and user-friendly web applications.
+- 🛠️ Building Front End using React, Next.js, Bootstrap, Material UI, Tailwind CSS, Redux, and Context API for State Management.
+- 🌐 Building Server Side using Node.js, Express.js, MongoDB, and GraphQL.
+- 🤖 Building databases with Microsoft SQL, MongoDB, Firebase, and NeDB.
+- 🛢️ Experience with tools like Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD, Git version control, AWS, Azure services, Kibana, and Grafana.
+- 💡 Experience in JavaScript, Java, Python, Go, C, and C++ with strong Data Structures and Algorithm knowledge.
+- 💼 Active contributor to open-source projects, fostering collaborative development and community growth.
+
+## Get in Touch
+
+- 🌐 Check out my [portfolio](https://ssukhvant.online).
+- ✉️ Email me at [sukhvantsingh2@gmail.com](mailto:sukhvantsingh2@gmail.com).
+- 📷 Follow me on [Instagram](https://www.instagram.com/ssukhvant) for coding and travel adventures.
+- 🤝 I'm open to collaborating on exciting web development projects.
+- 👥 Connect with me on [LinkedIn](https://www.linkedin.com/in/sukhvantsingh).
+
+Let's connect and create something amazing! 🚀
