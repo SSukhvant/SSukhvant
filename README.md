@@ -10,8 +10,8 @@ I'm passionate about web development and have been coding for three years. I sta
 - 🛠️ Building Front End using React, Next.js, Bootstrap, Material UI, Tailwind CSS, Redux, and Context API for State Management.
 - 🌐 Building Server Side using Node.js, Express.js, MongoDB, and GraphQL.
 - 🤖 Building databases with Microsoft SQL, MongoDB, Firebase, and NeDB.
-- 🛢️ Experience with tools like Docker, Kubernetes, Jenkins, GitHub Actions, CI/CD, Git version control, AWS, Azure services, Kibana, and Grafana.
-- 💡 Experience in JavaScript, Java, Python, Go, C, and C++ with strong Data Structures and Algorithm knowledge.
+- 🛢️ Experience with tools like Docker, Kubernetes, GitHub Actions, CI/CD, Git version control, AWS, and Azure services.
+- 💡 Experience in JavaScript, Java, Python, C, and C++ with strong Data Structures and Algorithm knowledge.
 - 💼 Active contributor to open-source projects, fostering collaborative development and community growth.
 
 ## Get in Touch
