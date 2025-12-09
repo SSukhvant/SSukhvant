@@ -16,7 +16,7 @@ I'm passionate about web development and have been coding for three years. I sta
 
 ## Get in Touch
 
-- 🌐 Check out my [portfolio](https://sukhvant.tech).
+- 🌐 Check out my [portfolio](https://sukhvant.vercel.app).
 - ✉️ Email me at [sukhvantsingh2@gmail.com](mailto:sukhvantsingh2@gmail.com).
 - 📷 Follow me on [Instagram](https://www.instagram.com/ssukhvant) for coding and travel adventures.
 - 🤝 I'm open to collaborating on exciting web development projects.
