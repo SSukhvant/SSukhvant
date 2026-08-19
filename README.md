@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:4A7FBF&height=180&section=header&text=Sukhvant%20Singh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%C2%B7%20React%20%C2%B7%20AI-Powered%20Apps&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/sukhvantsingh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://sukhvant.tech"><img src="https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://sukhvant.vercel.app"><img src="https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="mailto:sukhvantsingh2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
